@@ -5,7 +5,7 @@
 *import the below package in your program*----------------------------------------------------------------------------------------
 import diff.MaxDiff;
 
-*use the below method and save the return value in variable*---------------------------------------------------------------------
+*use the below method and save the return value in variable*------------------------------------------------------------------------
 int m=MaxDiff.findDiff();
 
 the variable contains the maximux difference and -1 if there is no lowered index smaller item
